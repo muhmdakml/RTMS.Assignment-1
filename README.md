@@ -1,5 +1,3 @@
-README
-
 Welcome to Muhd Akmal’s 1st Repo !!
 
 This Repo is specifically to run 4 basic samples of : 
